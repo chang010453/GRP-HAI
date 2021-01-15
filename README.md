@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GRP-HAI of Sequential Objection Detection Based on Deep Reinforcement Learning with a Hybrid Attention Interface
 
 Code is implemented on [faster-rcnn](https://github.com/endernewton/tf-faster-rcnn) and [drl-rpn](https://github.com/aleksispi/drl-rpn-tf)
@@ -77,3 +78,7 @@ DEMO:
 ----
 執行./tool/demo_drl.py，如要調整使用的weights, config, datasets的話在parse_args()調  
 記得要修改所使用的config.yml檔, DO_VISUALIZE改成True  
+=======
+# GRP-HAI
+ 
+>>>>>>> parent of d077be5... delete some files
